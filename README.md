@@ -84,3 +84,6 @@ Thanks
 - to [spf13](//github.com/spf13) for creating Hugo and the awesome community around the project
 - to [digitalcraftsman](//github.com/digitalcraftsman) for creating Hugo themes and writing nice READMEs
 - to Codrops for original [Thumbnail Grid with Expanding Preview](http://tympanus.net/codrops/?p=14530). 
+
+Other Hugo themes using Hugrid:
+- [Port](https://github.com/tylerjlawson/port-hugo)
